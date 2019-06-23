@@ -1,0 +1,17 @@
+GraphDrawer.pro
+function.cpp
+function.h
+functionPlotter.cpp
+functionPlotter.h
+graph.cpp
+graph.h
+main.cpp
+maincontroller.cpp
+maincontroller.h
+mainmodel.cpp
+mainmodel.h
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+scene.cpp
+scene.h
